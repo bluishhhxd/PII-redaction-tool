@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-"""
-PII redaction tool for .docx files.
-
-The script reads a Word document, detects common PII categories, and writes a
-redacted .docx with deterministic fake alternatives. It uses only Python's
-standard library and edits WordprocessingML text runs directly, so formatting is
-preserved for the unaffected parts of the document.
-"""
 
 from __future__ import annotations
 
