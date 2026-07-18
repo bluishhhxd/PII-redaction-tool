@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# Do not publish the original source document.
+Red Herring Prospectus.docx

@@ -1,0 +1,2 @@
+# No third-party dependencies required.
+# Run with Python 3.10+.
